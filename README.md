@@ -227,10 +227,10 @@ Edit the `<source>` tags:
 
 ### 4) Replace Ball/Pillar/Portal Images
 In the JS “Embed configuration” section at the top:
-- `const BALL_IMAGE_SRC = '...'`
-- `const PILLAR_IMAGE_SRC = '...'`
-- `const PORTAL_IMAGE_SRC = '...'`
-- `const GATE_IMAGE_SRC = '...'`
+- `const BALL_IMAGE_SRC = '...'
+- `const PILLAR_IMAGE_SRC = '...'
+- `const PORTAL_IMAGE_SRC = '...'
+- `const GATE_IMAGE_SRC = '...'
 
 You can set them to local filenames (if placed next to the HTML) or to remote URLs.
 
